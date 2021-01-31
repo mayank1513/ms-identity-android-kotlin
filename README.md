@@ -93,7 +93,7 @@ To run this sample, you'll need:
   From your shell or command line:
 
 ```Shell
-   git clone https://github.com/Azure-Samples/ms-identity-android-kotlin.git
+   git clone https://github.com/mayank1513/ms-identity-android-kotlin.git
   ```
 
    The following steps have been carried out for android studio, but you can choose and work with any editor of your choice.
